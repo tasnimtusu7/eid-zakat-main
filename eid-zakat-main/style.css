@@ -123,20 +123,87 @@ body{
 }
 .section-three{
     display: flex;
-    margin-top: 5%;
-    padding-left: 20%;
-    padding-right: 20%;
-    padding-bottom: 10%;
+    margin-top: 2%;
 }
+
 .one{
     padding-right: 150px;
     background-color: antiquewhite;
     height: 240px;
     padding-right: 20px;
+    margin-right: 10%;
+    margin-left: 15%;
+    padding-left: 2%;
+    padding-top: 1%;
 }
 .two{
     padding-right: 150px;
-    background-color: rgb(210, 159, 92);
+    background-color: antiquewhite;
     height: 240px;
     padding-left: 20px;
+    padding-right:2%;
+    padding-top: 1%;
+    margin-right: 15%;
+    
+}
+.section-four{
+    display: flex;
+    margin-top: 2%;
+}
+.three{
+    padding-right: 150px;
+    background-color: antiquewhite;
+    height: 240px;
+    padding-right: 20px;
+    margin-right: 10%;
+    margin-left: 15%;
+    padding-left: 2%;
+    padding-top: 1%;
+
+}
+.four{
+    padding-right: 150px;
+    background-color: antiquewhite;
+    height: 240px;
+    padding-left: 20px;
+    margin-right: 15%;
+    padding-left: 20px;
+    padding-right: 2%;
+    padding-top: 1%;
+}
+.section-five{
+    display: flex;
+    margin-top: 7%;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+.five img{
+    width: 300px;
+    height: 300px;
+    border-radius: 3%;
+}
+.six img{
+    width:300px;
+    height:300px;
+    margin-right: 12px;
+    margin-left: 12px;
+    border-radius: 3%;
+}
+.seven img{
+    width:300px;
+    height:300px;
+    border-radius: 3%;
+}
+.section-six{
+    text-align: center;
+    padding-left: 22%;
+    padding-right: 25%;
+    margin-bottom: 3%;
+}
+.section-six h1{
+    font-size: 45px;
+}
+.section-six p{
+    font-size: 20px;
+    margin-top: 10px;
 }
